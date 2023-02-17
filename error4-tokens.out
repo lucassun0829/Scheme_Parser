@@ -1,0 +1,3 @@
+(number 3.14)
+(number 1.2)
+Expected | line ["\n|\n"] after token, got: ".3\n"
